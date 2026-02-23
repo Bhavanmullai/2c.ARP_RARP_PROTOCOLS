@@ -125,6 +125,6 @@ c.close()
 <img width="1230" height="850" alt="image" src="https://github.com/user-attachments/assets/cd1c68cc-9b52-45fc-9de5-a4f7c09a27b6" />
 
 
-## RESULT
+### RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
